@@ -1,0 +1,6 @@
+{
+  "name": "QRPay Cart",
+  "description": "Aplicación de carrito de compras moderna con catálogo interactivo, cupones y pasarela de pago instantánea mediante código QR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
